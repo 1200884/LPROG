@@ -1,0 +1,12 @@
+T__0=1
+NEWLINE=2
+NUMBER=3
+MENOR=4
+MAIOR=5
+IGUAL=6
+DIFERENTE=7
+' '=1
+'<'=4
+'>'=5
+'='=6
+'<>'=7
